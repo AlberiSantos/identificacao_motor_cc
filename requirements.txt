@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+sympy
+numba
+jupyter
+pandas
+SciencePlots
